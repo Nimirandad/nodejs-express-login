@@ -2,7 +2,7 @@
 
 This project consists of an API that allows users to register, authenticate the user (login), close the session and consult for all the users that are in the database.
 
-It is worth mentioning that this project uses MongoDB as a database and that JSON Web Token is used for authentication. Dotenv is also used to protect environment variables (a copy of the .env file is left in the repository).
+It is worth mentioning that this project uses MongoDB as a database and that JSON Web Token is used for authentication. Dotenv is also used to protect environment variables.
 
 ## Installation
 To install the dependencies it's neccesary to run the following command:
